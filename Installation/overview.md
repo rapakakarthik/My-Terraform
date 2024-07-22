@@ -1,8 +1,4 @@
-
-
-_**### > ### **# Infrastructure as Code(IaC)****_
-
-
+### **# Infrastructure as Code(IaC)**
 
 Before the advent of IaC, infrastructure management was typically a manual and time-consuming process. System administrators and operations teams had to:
 
@@ -38,16 +34,4 @@ There are multiple reasons why Terraform is used over the other IaC tools but be
 
 7. **Integration with Other Tools**: Terraform can be integrated with other DevOps and automation tools, such as Docker, Kubernetes, Ansible, and Jenkins, allowing you to create comprehensive automation pipelines.
 
-8. **HCL Language**: Terraform uses HashiCorp Configuration Language (HCL), which is designed specifically for defining infrastructure. It's human-readable and expressive, making it easier for both developers and operators to work with.### **Install Terraform**
-
-### **Windows**
-
-1. Install Terraform from the Downloads [Page](https://developer.hashicorp.com/terraform/downloads)
-
-### **Linux**
-
-1. Follow the steps provided in the Downloads [Page](https://developer.hashicorp.com/terraform/downloads) for Linux.
-
-### **macOS**
-
-1. Follow the steps provided in the Downloads [Page](https://developer.hashicorp.com/terraform/downloads) for macOS.
+8. **HCL Language**: Terraform uses HashiCorp Configuration Language (HCL), which is designed specifically for defining infrastructure. It's human-readable and expressive, making it easier for both developers and operators to work with.
