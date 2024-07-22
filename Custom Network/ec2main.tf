@@ -2,7 +2,7 @@
 
 
 resource "aws_instance" "main" {
-  ami                         = var.my-ami
+  ami = var.my-ami
   instance_type               = var.instance-type
   key_name                    = var.key
   subnet_id                   = aws_subnet.main.id
