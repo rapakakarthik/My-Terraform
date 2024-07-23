@@ -1,0 +1,1 @@
+Command =====> terraform import aws_instance.main <instance id form AWS console manually id>
