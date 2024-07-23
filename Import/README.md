@@ -1,1 +1,5 @@
-Command =====> terraform import aws_instance.main <instance id form AWS console manually id>
+Command =====> terraform import aws_instance.foo i-abcd1234
+
+
+
+
