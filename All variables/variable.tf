@@ -9,15 +9,11 @@ variable "size-instance-type" {
 
 }
 
-variable "instance-name" {
-  type    = string
-  default = "mycloud-server"
+#variable "instance-name" {
+  #type    = string
+  #default = "mycloud-server"
 
-}
-
-
-
-variable "buky" {
+#}
 
 
-}
+

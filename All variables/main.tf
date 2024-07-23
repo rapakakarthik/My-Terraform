@@ -4,15 +4,6 @@ resource "aws_instance" "test" {
   instance_type = var.size-instance-type
 
   tags = {
-    Name = var.instance-name
+    Name = "lilly-ec2"
   }
-}
-
-#creating s3 bucket
-
-
-resource "aws_s3_bucket" "test" {
-  bucket = var.buky
-
-
 }
