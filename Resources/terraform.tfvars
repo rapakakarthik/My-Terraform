@@ -1,0 +1,5 @@
+os-ami             = "ami-0427090fd1714168b"
+size-instance-type = "t2.micro"
+key-name           = "awscloud"
+name-instance      = "aws-cloud-devops"
+mybucket           = "buckyueybdudbudjssh232"
