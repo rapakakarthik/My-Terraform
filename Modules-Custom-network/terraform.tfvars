@@ -1,0 +1,6 @@
+ami          = "ami-00db8dadb36c9815e"
+instancetype = "t2.micro"
+key          = "docker"
+name         = "main-ec2"
+# subnet = ""
+# sg = "" 
