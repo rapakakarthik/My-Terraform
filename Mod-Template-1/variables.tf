@@ -1,29 +1,29 @@
 variable "ami" {
-    type = string
-    default = ""
-  
+  type    = string
+  default = ""
+
 }
 
 variable "instancetype" {
-    type = string
-    default = ""
-  
+  type    = string
+  default = ""
+
 }
 
 variable "key" {
-    type = string
-    default = ""
-  
+  type    = string
+  default = ""
+
 }
 
 variable "name" {
-    type = string
-    default = ""
-  
+  type    = string
+  default = ""
+
 }
 
 variable "subnet" {
-    type = string
-    default = ""
-  
+  type    = string
+  default = ""
+
 }

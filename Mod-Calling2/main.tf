@@ -1,6 +1,6 @@
 provider "aws" {
-    region = "us-east-2"
-  
+  region = "us-east-2"
+
 }
 module "server" {
   source       = "../Mod-Template-1"
