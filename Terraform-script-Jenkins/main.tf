@@ -9,6 +9,8 @@ resource "aws_instance" "git" {
     key_name = "docker"
 
 
-    tags = "my-git-terraform-jenkins"
+    tags = {
+        Name = "fix-ec2"
+    }
   
 }
